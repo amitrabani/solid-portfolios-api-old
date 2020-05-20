@@ -1,0 +1,4 @@
+pymongo
+Flask==1.1.1
+Flask-RESTful==0.3.7
+flask-cors
